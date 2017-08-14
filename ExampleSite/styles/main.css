@@ -1,0 +1,83 @@
+a {
+  color: #35bd00;
+  text-decoration: none;
+}
+
+#activepics {
+  height: 200px;
+}
+#BigMiles {
+  height: 300px;
+}
+
+body {
+  background: #150061;
+  color: #fff52e;
+}
+
+#Friends {
+  height: 250px;
+}
+
+.FriendList img {
+  height: 75px;
+}
+.FriendList {
+  list-style-type: lower-alpha;
+}
+
+#Friends ol li {
+  margin: 15px;
+  float: left;
+}
+
+h1, h2, h3 {
+  font-family: 'Sedgwick Ave Display', cursive;
+  color: #ee856d;
+}
+
+header img {
+  display: inline-block;
+  margin: 0px 0px 0px 50px;
+}
+
+html {
+  font-family: 'Saira Extra Condensed', sans-serif;
+}
+
+#MainContent {
+  margin: 100px 10px 100px 10px;
+}
+
+.MilesHeader {
+  margin: 0px auto;
+  width: 680px;
+}
+
+.MilesHeaderText {
+  display: inline-block;
+}
+
+nav {
+  border-bottom: 1px solid;
+}
+
+.NavList {
+  border-top: 1px solid;
+  margin: 0px auto;
+  width: 900px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0px;
+}
+
+ul li {
+  display: inline-block;
+  margin: 0px 248px 0px 0px;
+}
+
+ul li:last-child {
+  margin: 0px;
+}
